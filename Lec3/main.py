@@ -4,7 +4,7 @@ a_float = 23.5
 b_float = 12.9 
 
 # Ввод
-#c_float = float(input())
+# c_float = float(input())
 # 1-3 как у int()
 # 4) Разрешается наличие одного символа точки `.`
 
