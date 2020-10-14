@@ -19,3 +19,5 @@ while True:
 print("Current max:", cur_max)
 print("Current min:", cur_min)
 
+
+
