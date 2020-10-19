@@ -54,8 +54,11 @@
 
 
 ### Задачи шестого дня
-***Ссылка:*** https://contest.yandex.ru/contest/20996
+***Ссылка1:*** https://contest.yandex.ru/contest/20996
+***Ссылка2:*** https://contest.yandex.ru/contest/21041/
 #### Обязательные задачи
-* N, O, P
+* N, O, P (Ссылка 1)
+* B (ссылка 2)
+
 
  
