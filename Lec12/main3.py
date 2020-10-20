@@ -1,3 +1,4 @@
+# D6: B pre-solution
 n = int(input())
 
 queue = []
