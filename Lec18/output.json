@@ -1,0 +1,18 @@
+{
+    "name": [
+        "Bob",
+        "hjgj"
+    ],
+    "is_valid": true,
+    "chars": [
+        "Char1",
+        "Char2",
+        "Char3",
+        {
+            "one": 1,
+            "two": 2
+        }
+    ],
+    "location": null,
+    "age": 29
+}
